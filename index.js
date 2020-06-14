@@ -4,15 +4,19 @@
 var drumButtons = document.querySelectorAll(".drum");
 for (var i = 0; i < drumButtons.length; i++){
   drumButtons[i].addEventListener("click", function(){
-    alert("I got clicked");
+    var curSound = new Audio("sounds/crash.mp3"); // create an audio object with the sound file
+    curSound.play(); // play the sound file
+    this.style.color = "blue"; // this refers to the current drum button object, which changes to
+                               // blue after getting clicked
   });
+}
+
+function handleClick(){
+  alert("I got clicked");
 }
 
 // param1: case-sensitive string rep the event
 // param2: listener: JS function to be called when the event happens
-//                   naming: handle(Event)
-//                   don't add parentheses after the function, else it will be called no matter what
-//                   the function should only be passed as an input to be called later
 /*
 document.querySelector("button").addEventListener("click", function(){
   alert("I got clicked");
