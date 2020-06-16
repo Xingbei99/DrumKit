@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e6c4dcc9-80ba-4a7d-99c1-5f1b46ef5135" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
@@ -39,6 +38,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="375" y="140" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592325144812">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="375" y="140" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.690@0.0.1280.690" timestamp="1592325144812" />
     <state x="304" y="11" width="672" height="678" key="search.everywhere.popup" timestamp="1592148856268">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
